@@ -1,0 +1,24 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "Neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "neigefeu",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "56",
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "cyclone43ss",
+            "link": "https://www.youtube.com/wat",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
