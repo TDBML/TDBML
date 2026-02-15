@@ -1,24 +1,24 @@
 {
-    "id": 61079355,
-    "name": "Acu",
-    "author": "Neigefeu",
-    "creators": ["neigefeu"],
-    "verifier": "neigefeu",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": [],
+    "verifier": "ZenthicAlpha",
+    "verification": "https://youtu.be/7lsLVVujIvg?si=MRtulZei2hYAqKcg",
     "percentToQualify": "56",
-    "password": "free to copy",
+    "password": "Not Copyable",
     "records": [
         {
             "user": "cyclone43ss",
-            "link": "https://www.youtube.com/wat",
+            "link": "trust bro",
             "percent": 100,
-            "hz": 360
+            "hz": 144
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
+        "user": "GWGameboy",
+        "link": "trust bro",
+         "percent": 100,
+         "hz": 60
+        }                                                       
     ]
 }

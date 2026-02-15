@@ -1,24 +1,24 @@
 {
-    "id": 61079355,
-    "name": "Acu",
-    "author": "Neigefeu",
-    "creators": ["neigefeu"],
-    "verifier": "neigefeu",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "56",
-    "password": "free to copy",
+    "id": 1957420,
+    "name": "TimeCore",
+    "author": "Gelt",
+    "creators": [],
+    "verifier": "Gelt",
+    "verification": "https://youtu.be/jOv8rqOuROU?si=f9qQawCMYLZbBJxS",
+    "percentToQualify": "60",
+    "password": "Not Copyable",
     "records": [
         {
             "user": "cyclone43ss",
-            "link": "https://www.youtube.com/wat",
+            "link": "trust bro",
             "percent": 100,
-            "hz": 360
+            "hz": 144
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
+        "user": "WonbardBombard",
+        "link": "trust bro",
+         "percent": 100,
+         "hz": 60
+        }                                                       
     ]
 }
