@@ -3,18 +3,11 @@
     "name": "Niwa",
     "author": "Teno & more",
     "creators": [],
-    "verifier": "",
+    "verifier": "cyclone43ss",
     "verification": "https://youtu.be/vegDZr7jh-M?si=Yh_uOFcsldwigo3s",
     "percentToQualify": "72",
     "password": "Free To Copy",
     "records": [
-                {
-                   
-                 "user": "Cyclone43ss",
-                 "link": "https://www.youtube.com/live/UmV5wJYLOVU?si=isMSrSBszUiCiM0H",
-                 "percent": 100,
-                   "hz": 144
-                                                                            
-                }
+        
     ]
 }

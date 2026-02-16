@@ -3,7 +3,7 @@
     "name": "Theory of Jumping",
     "author": "SpacePark",
     "creators": [],
-    "verifier": "",
+    "verifier": "Wonbardbombard",
     "verification": "https://youtu.be/EQgGR998PMI?si=Hg06BtfFl_s9UgW1",
     "percentToQualify": "60",
     "password": "Not Copyable",
@@ -13,12 +13,6 @@
             "link": "trust bro",
             "percent": 100,
             "hz": 144
-        },
-        {
-        "user": "WonbardBombard",
-        "link": "trust bro",
-         "percent": 100,
-         "hz": 60
-        }                                                       
+        }                                                  
     ]
 }

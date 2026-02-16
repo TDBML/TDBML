@@ -3,16 +3,11 @@
     "name": "Acu",
     "author": "Neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "",
+    "verifier": "cyclone43ss",
     "verification": "https://youtu.be/z6l74Mkoxm8?si=h4jTLs2jidjkJrUU",
     "percentToQualify": "56",
     "password": "Free to copy",
     "records": [
-        {
-            "user": "cyclone43ss",
-            "link": "https://www.youtube.com/live/3tAfc_eDJ4U?si=WYbIE0tUr-JEUdb4",
-            "percent": 100,
-            "hz": 144
-        }
+    
     ]
 }
